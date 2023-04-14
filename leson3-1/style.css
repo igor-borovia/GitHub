@@ -1,0 +1,12 @@
+.box{
+    width: 100%;
+    background-color: #de8713;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mini-bpx{
+    width: 31%;
+    height: 300px;
+    background-color: red;
+}
